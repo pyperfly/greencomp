@@ -1,0 +1,48 @@
+
+
+
+{
+    "hecken" : {
+        "id": 1,
+        "title": "Heckenschnitt",
+        "text": " Je nach Anlage können Hecken einen sehr unterschiedlichen Anblick bieten. Sowohl bei formal strengen Wällen als auch bei artenreichen Sträucherpflanzungen sollte man die Pflegeansprüche der jeweiligen Pflanzen berücksichtigen. Ein starker Rückschnitt im Winter oder Frühjahr kann Sie revitalisieren.",
+        "img": "hecke_gufi_cut.jpg",
+        "imgUrl": "@/assets/imgs/strauecher.jpg",
+        "selected": true,
+        "wideImage": false
+    },
+
+
+    "Strauchschnitt" : {
+        "id": 2,
+        "title": "Strauchschnitt",
+        "text": "Sträucher können als meterhohe baumartige Solitäre Struktur geben. Zwergsträucher können pflegeleichte, reichblühende Bestandteile in Staudenbeeten sein. Gehölze mittlerer Größe können Räume Teilen und mit ihrer Wuchsform begeistern. Durch diese Vielfalt ist der Gestaltung kaum grenzen gesetzt",
+        "img": "strauchSchnitt.jpg",
+        "imgUrl": "@/assets/imgs/strauecher.jpg",
+        "selected": false,
+        "wideImage": true
+    },
+
+    "pflanzungen" : {
+        "id": 3,
+        "title": "Pflanzungen",
+        "text": "Um den Garten zu einem grünen Paradies nach eigenen Vorstellungen weiter zu entwickeln, sollte man sich überlegen was man in diesem am liebsten machen möchte. Möchte man mehr kleinteilige Vielfalt, können blühenede Stauden und Zwergsträucher z.B. einen Teil des Rasens ersetzen. Elegante mehrstämmige Kleinbäume schaffen schattige Plätze für Sitzgelegenheiten.",
+        "img": "pflanzungCut.jpg",
+        "imgUrl": "@/assets/imgs/hafer.jpg",
+        "selected": false,
+        "wideImage": false
+    },
+
+    "boden" : {
+        "id": 4,
+        "title": "Boden",
+        "text": "Ein geheimes Leben führen Pflanzen im Boden, wo Sie sich mit Nährstoffen und Wasser versorgen und in einem komplexen Wechselspiel mit anderen Organismen leben. So entstehen Pflanzengemeinschaften auf bestimmten Böden, z.B saure Moorbeete mit Rhododendren, Kamelien und Lavendelheide. Bei vielen Pflanzen spielen Faktoren wie Bodendichte, Säure oder Wasserversorgung eine entscheidende Rolle.",
+        "img": "BodenStand.jpg",
+        "imgUrl": "@/assets/imgs/hecken.jpg",
+        "selected": false,
+        "wideImage": true
+    }
+
+
+
+}

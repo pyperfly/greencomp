@@ -1,0 +1,86 @@
+@font-face {
+    font-family: gentium;
+    font-weight: 200;
+    src: url('fonts/gentiumbookplus-bolditalic-webfont.woff2');
+}
+
+@font-face {
+    font-family: zillas;
+    font-weight: 400;
+    src: url('fonts/zillaslab-semibolditalic-webfont.woff2');
+}
+
+@font-face {
+    font-family: overpass;
+    font-weight: 400;
+    src: url('fonts/overpass-variablefont_wght-webfont.woff2');
+}
+
+
+@font-face {
+    font-family: concertOne;
+    font-weight: 200;
+    src: url('fonts/concertone-regular-webfont.woff2');
+}
+
+
+@font-face {
+    font-family: chivo;
+    font-weight: 200;
+    src: url('fonts/chivo-variablefont_wght-webfont.woff2');
+}
+
+
+@font-face {
+    font-family: montserrat;
+    font-weight: 200;
+    src: url('fonts/montserratalternates-medium-webfont.woff2');
+}
+
+
+@font-face {
+    font-family: hanken;
+    font-weight: 400;
+    src: url('fonts/hankengrotesk-variablefont_wght-webfont.woff2');
+}
+
+
+
+@font-face {
+    font-family: poppins;
+    font-weight: 200;
+    src: url('fonts/poppins-medium-webfont.woff2');
+}
+
+
+
+@font-face {
+    font-family: rubik;
+    font-weight: 500;
+    src: url('fonts/rubik-variablefont_wght-webfont.woff2');
+}
+
+@font-face {
+    font-family: rubiklight;
+    font-weight: 900;
+    src: url('fonts/rubik-variablefont_wght-webfont.woff2');
+}
+
+
+
+@font-face {
+    font-family: courgette;
+    font-weight: 800;
+    src: url('fonts/Courgette-Regular.woff2');
+}
+
+@font-face {
+    font-family: higuntur;
+    font-weight: 400;
+    src: url('fonts/HindGuntur-Medium.woff2');
+}
+
+
+
+
+
