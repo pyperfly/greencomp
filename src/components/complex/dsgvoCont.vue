@@ -53,7 +53,7 @@ export default {
     data(){
         return{
             dsgvoCont: {
-                'intro' :  'Hiermit soll Information hinsichichtlich der erhebung und verwendung personenbezogener Daten gegeben werden.\
+                'intro' :  'Hiermit soll Information hinsichichtlich der Erhebung und Verwendung personenbezogener Daten gegeben werden.\
                         Wir behalten uns vor diese anzupassen, um immer den aktuellen Anforderungen zu entsprechen. \
                          Die Nutzung dieser Webseite ist ohne Angabe personenbezogener Daten möglich',
 

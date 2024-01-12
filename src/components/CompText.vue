@@ -1,6 +1,6 @@
 <template>
     <div class='darkBox aboutCont'>
-        <p class='blabla'>{{ aboutText }}</p>
+        <p class='story'>{{ aboutText }}</p>
     </div>
     
 </template>
@@ -12,11 +12,11 @@ export default {
     data(){
         return{
             aboutText : 'Sie möchten vitale Bepflanzungen, ein harmonisches Nebeneinander und pflegeleichte Eleganz in Ihrem Garten?\
-            Mit Pflanzenkenntnis und technischem Geschick lassen sich Gärten durch Schnittmaßnahmen, Bodenverbesserungen und Pflanzungen verwandeln.\
-            Ein Gehölz-Rückschnitt kann für mehr grün sorgen und das Gehölz wird im Wachstum gebremst.\
-            Spannend ist auch die Zukunft ihrer Bepflanzung, so manch nicht ganz bekannter Strauch kann ihren Garten aufwerten und doch erstaunlich pflegeleicht sein. \
-            Manchmal kann man den Standort einer Pflanze verbessern, oder es ist besser Ihr einen neuen zu bieten.\
-            Bei meiner Arbeit setze ich moderne Akku-Technik, effizientes Schneidgeräte und bewährte Hilfstechnik ein.',
+             Durch Schnittmaßnahmen, Bodenverbesserungen und Pflanzungen lassen sich mit Pflanzenkenntnis und technischem Geschick Gärten umgestalten.\
+            Ein Gehölz-Rückschnitt kann für mehr grün sorgen und das Gehölz wird im Wachstum gebremst. \
+            Besonders Interessant kann auch eine Veränderung in ihrer Bepflanzung sein, so manch nicht ganz bekannter Strauch kann ihren Garten aufwerten und doch erstaunlich pflegeleicht sein.\
+             Manchmal kann man den Standort einer Pflanze verbessern, oder es ist besser Ihr einen neuen zu bieten.\
+             Bei meiner Arbeit setze ich moderne Akku-Technik, effizientes Schneidgeräte und bewährte Hilfstechnik ein.',
         }
         
     },
@@ -33,7 +33,7 @@ export default {
 <style>
   
 
-    .blabla{
+    .story{
         font-family: hanken;
        
     }
