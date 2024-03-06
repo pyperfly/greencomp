@@ -10,7 +10,7 @@
     />
     <Topics />
    <div v-if="mobileMode" class="themesBtnCont">
-    <RouterLink to="/themes" class="themesBtn h3">Gartenthemen...</RouterLink> 
+    <RouterLink to="/themes" class="themesBtn h2">Gartenthemen...</RouterLink> 
    </div>
     <JardiThemes v-if="!mobileMode"/>   
     <div class="flowers"></div>
