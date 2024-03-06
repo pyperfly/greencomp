@@ -210,6 +210,7 @@ export default {
     justify-content: space-around;
     position: static;
     min-height: 25vh;
+    gap: 2vh;  
     }
 
 
