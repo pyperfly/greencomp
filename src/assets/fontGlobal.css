@@ -49,11 +49,11 @@ h1{
   
   h3, .fontmd{
     padding: 5px;
-    font-size: clamp(1.8rem, -1.3rem + 2vw, 2rem);
+    font-size: clamp(1.5rem, -1.3rem + 2vw, 2rem);
   }
   
   p, .fontsmall{
-    font-size: clamp(1.2rem, -1.2rem + 3vw, 2rem);
+    font-size: clamp(1.2rem, -1.2rem + 2vw, 2rem);
   }
 
 }
