@@ -202,7 +202,7 @@
 
 .MobThemeNav{
   grid-column: 2/8;
-  grid-row: 3/4;
+  grid-row: 3/5;
   padding:8px;
   background-color: var(--darkForest);
   color: var(--desertLight);
@@ -212,7 +212,7 @@
 
 .themeSection{
     grid-column: 1/13;
-    grid-row: 5/20;
+    grid-row: 6/20;
     display: flex;
    flex-direction: column;
    align-items: center;
@@ -245,6 +245,7 @@
     display: flex;
     flex-direction: column;
     gap: 5px;
+    min-height: 8vh;
     padding: 15vh 10vw; 
 }
 
