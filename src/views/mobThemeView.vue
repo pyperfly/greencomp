@@ -245,7 +245,7 @@
     display: flex;
     flex-direction: column;
     gap: 5px;
-    min-height: 8vh;
+    min-height: 38vh;
     padding: 15vh 10vw; 
 }
 
