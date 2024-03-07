@@ -202,14 +202,14 @@ export default {
 }
 
 
-@media(max-width: 750px){
+@media(max-width: 1150px){
 
     .topicsCont{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     position: static;
-    min-height: 25vh;
+    min-height: 35vh;
     gap: 2vh;  
     }
 
