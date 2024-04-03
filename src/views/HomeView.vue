@@ -72,7 +72,7 @@ data(){
   },
 
   created() {
-    const mqLarge = window.matchMedia( '(max-width: 750px)' )
+    const mqLarge = window.matchMedia( '(max-width: 1050px)' )
     this.checkMobileMode(mqLarge)
     mqLarge.addEventListener('change', this.checkMobileMode)
   }
