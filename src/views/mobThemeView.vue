@@ -156,7 +156,11 @@
         created() {
             this.selTheme = this.themes.hecken
             this.scrollToTop
-         }
+         },
+
+        mounted () {
+            window.scrollTo(0, 0)
+            }
 
 
     }
