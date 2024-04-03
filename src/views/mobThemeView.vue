@@ -141,7 +141,13 @@
 
              getImgUrl: function (img) { 
                 return require('@/assets/imgs/' + img);
-            }
+            },
+
+             scrollToTop() {
+            window.scrollTo({ top: 0, left: 0, behavior: 'smooth' });
+            },
+
+          
 
 
             
@@ -149,6 +155,7 @@
 
         created() {
             this.selTheme = this.themes.hecken
+            this.scrollToTop
          }
 
 
