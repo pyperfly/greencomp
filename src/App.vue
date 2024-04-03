@@ -94,14 +94,13 @@ export default {
 .wallpaper{
   background-color:rgba(10, 10, 10, 1);
   background:
-     linear-gradient(to bottom, rgba(100, 100, 100, 0.4), rgba(100, 100, 100, 0.4)),
-    linear-gradient(to bottom, rgb(13, 170, 214), rgba(118, 231, 19, 0.6) 10% 12%, transparent),
+       linear-gradient(to bottom, rgba(100, 100, 100, 0.4), rgba(100, 100, 100, 0.4)),
+    linear-gradient(to bottom, rgb(67, 191, 225), rgba(166, 223, 117, 0.6) 10% 12%, transparent),
     linear-gradient(to bottom, rgba(17, 114, 100, 0.6) 50%, transparent),
-    linear-gradient(to top, rgba(105, 149, 56, 0.6) 50%, transparent),
+    linear-gradient(to top, rgba(137, 166, 103, 0.6) 50%, transparent),
     repeating-linear-gradient(to top, rgba(11, 107, 107, 0.3), rgba(25, 126, 27, 0.3) 30px, rgba(25, 126, 27, 0.3),  rgba(255, 255, 255,0.3) 40px),
-    repeating-linear-gradient(green 3%, rgba(151, 132, 44, 0.6) 9%, rgba(151, 132, 44, 0.6) 9%, green 3% 16%);
- z-index: -2;
-   
+    repeating-linear-gradient(rgb(113, 162, 113) 3%, rgba(151, 132, 44, 0.6) 9%, rgba(151, 132, 44, 0.6) 9%, green 3% 16%);
+ z-index: -2;   
 }
 
 .flowers{
