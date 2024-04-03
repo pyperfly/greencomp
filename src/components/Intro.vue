@@ -1,7 +1,6 @@
 <template>
     <div class='introCont'>
-        <div><h1>Grünpflege</h1><span class="fontmd"> Schank</span></div>
-
+        <h1>Grünpflege</h1><h2>Schank</h2>
     </div>
     
 </template>
@@ -15,9 +14,25 @@ export default {
 
 <style>
 
+
      .introCont{
+        display: flex;
+        flex-direction: row;
+        align-items: end;
+        gap: 1vw;
         font-family: rubik;
+        font-weight: 600;
         background: radial-gradient(closest-side, rgba(250,250,250,0.5), rgba(250,250,250,0.2), transparent);
         
     }
+
+
+    @media(max-width: 1350px){
+            .introCont{
+                flex-direction: column;
+                align-items: center;
+        }
+
+        }
+
 </style>
