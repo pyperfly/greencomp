@@ -38,7 +38,7 @@
         <p class="closeMe">&times;</p>
 
         <div class="navCont">
-            <button v-for="item in themes" :key="item.id" @click="switchTheme(item.id)">{{item.title}}</button>
+            <button v-for="item in themes" :key="item.id" @click="switchTheme(item.id)"><h2>{{item.title}}</h2></button>
 
         </div>    
         
