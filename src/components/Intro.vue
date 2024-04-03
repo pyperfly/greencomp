@@ -1,6 +1,6 @@
 <template>
     <div class='introCont'>
-        <div><h3>Grünpflege</h3><span class="fontsmall"> Schank</span></div>
+        <div><h1>Grünpflege</h1><span class="fontmd"> Schank</span></div>
 
     </div>
     
