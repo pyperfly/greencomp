@@ -10,7 +10,7 @@
     />
     <Topics />
    <div v-if="mobileMode" class="themesBtnCont">
-    <RouterLink to="/themes" class="themesBtn fontmd">Gartenthemen...</RouterLink> 
+    <RouterLink to="/themes" class="themesBtn fontmd">Gartenthemen... &#9654;</RouterLink> 
    </div>
     <JardiThemes v-if="!mobileMode"/>   
     <div class="flowers"></div>
@@ -90,7 +90,7 @@ data(){
     min-height: 10vh;
     padding: 5px;
     color:  var(--desertLight);
-    background-color: rgba(23, 113 , 98, 100);
+    background-color: rgba(23, 63 , 58, 100);
     border-radius: 0.3em;
     border: none;
     text-decoration: none;
