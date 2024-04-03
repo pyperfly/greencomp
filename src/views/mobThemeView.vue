@@ -2,7 +2,7 @@
   <div class="mobThemes wallpaper">
 
    <RouterLink to="/" class="homeBtn mobButtons">
-   <h3>&#11207; Zurück</h3>
+   <h3>&#x25c0; Zurück</h3>
    </RouterLink> 
    
    <div class="MobThemeNav mobButtons" @click="openThemeModal">
