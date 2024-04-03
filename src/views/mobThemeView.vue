@@ -6,7 +6,7 @@
    </RouterLink> 
    
    <div class="MobThemeNav mobButtons" @click="openThemeModal">
-    <h3>Anderes Thema...</h3>
+    <h3>Themen...</h3>
     <p :style="{ transform: arrowRotate}">&#9654;</p>
    </div>
    
