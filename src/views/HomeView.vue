@@ -88,7 +88,7 @@ data(){
 
 .themesBtn{
     min-height: 10vh;
-    padding: 5px;
+    padding: 12px;
     color:  var(--desertLight);
     background-color: rgba(23, 63 , 58, 100);
     border-radius: 0.3em;
