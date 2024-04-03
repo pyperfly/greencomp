@@ -2,8 +2,8 @@
   <div class="mobThemes wallpaper">
 
    <RouterLink to="/" class="homeBtn mobButtons">
-    <h3>Zurück</h3>
-    <p class="uniSign">&times;</p></RouterLink> 
+    <p class="uniSign">&#11207;</p>
+    <h3>Zurück</h3></RouterLink> 
    
    <div class="MobThemeNav mobButtons" @click="openThemeModal">
     <h3>Anderes Thema...</h3>
@@ -188,7 +188,7 @@
     position: fixed;
     right: 3px;
     color: var(--darkForest);
-    background-color: rgba(243, 183 , 188, 100);
+    background-color: rgba(183, 83 , 88, 0.9);
     border-radius: 0.3em;
     border: none;
     text-decoration: none;
