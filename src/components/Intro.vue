@@ -1,6 +1,6 @@
 <template>
     <div class='introCont'>
-        <h1>Grünpflege</h1><h2>Schank</h2>
+        <h1>Grünpflege</h1><h1>Schank</h1>
     </div>
     
 </template>
