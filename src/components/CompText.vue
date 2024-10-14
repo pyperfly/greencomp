@@ -11,12 +11,12 @@ export default {
 
     data(){
         return{
-            aboutText : 'Vitale Bepflanzungen, ein harmonisches Nebeneinander und pflegeleichte Eleganz in Ihrem Garten?\
-             Durch Schnittmaßnahmen, Bodenverbesserungen und Pflanzungen lassen sich Gärten umgestalten.\
-            Ein Gehölz-Rückschnitt kann für mehr grün sorgen und das Gehölz wird im Wachstum gebremst. \
-            Besonders Interessant kann auch eine Veränderung in ihrer Bepflanzung sein, so manch nicht ganz bekannter Strauch kann ihren Garten aufwerten und doch erstaunlich pflegeleicht sein.\
-             Manchmal kann man den Standort einer Pflanze verbessern, oder es ist besser Ihr einen neuen zu bieten.\
-             Bei meiner Arbeit setze ich moderne Akku-Technik, effizientes Schneidgeräte und bewährte Hilfstechnik ein.',
+            aboutText : 'Für Gärten die durch grüne Formvielfalt, Harmonie und Vitalität begeistern./
+                Seit vielen Jahren arbeite ich mit Gehölzen und Bäumen sowie Stauden und Gräsern in Pflanzungen unterschiedlichster ausprägung./
+            Für zeitlich passende und schonende Schnittmaßnahmen sollte das artspezifische Wachstum und die Biologie der Pflanzen berücksichtigt werden./
+            Dazu kommen sehr unterschiedliche, qualitativ hochwertige Werkzeuge zum Einsatz./
+            Durch die fundierte Berücksichtigung von Nutzung, Ökologie, Boden und Biologie gelingen schöne Gestaltungen, die Lebendig und pflegeleicht sind./
+                        Die Ausstattung reicht hier von Scheeren bis zu großen Motorsägen und von Bodentestern zu Klettergerät..',
         }
         
     },
