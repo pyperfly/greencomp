@@ -14,7 +14,7 @@ export default {
             aboutText : 'Für Gärten die durch grüne Formvielfalt, Harmonie und Vitalität begeistern.\
                 Seit vielen Jahren arbeite ich mit Gehölzen und Bäumen sowie Stauden und Gräsern in Pflanzungen unterschiedlichster ausprägung.\
             Für zeitlich passende und schonende Schnittmaßnahmen sollte das artspezifische Wachstum und die Biologie der Pflanzen berücksichtigt werden.\
-            Durch die fundierte Berücksichtigung von Nutzung, Ökologie, Boden und Biologie gelingen schöne Gestaltungen, die Lebendig und pflegeleicht sind.\
+            Schöne und pflegeleichte Pflanzungen können durch die fundierte Berücksichtigung von Nutzung, Ökologie, Boden und Biologie realisiert werden.\
                         Die Ausstattung reicht hier von Scheeren bis zu großen Motorsägen und von Bodentestern zu Klettergerät.',
         }
         
