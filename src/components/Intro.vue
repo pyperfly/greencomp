@@ -1,6 +1,6 @@
 <template>
     <div class='introCont'>
-        <h1>Grünpflege</h1><h1>Schank</h1>
+        <h1>Grünpflege</h1><h1 class='namePart'>Schank</h1>
     </div>
     
 </template>
@@ -24,6 +24,10 @@ export default {
         font-weight: 600;
         background: radial-gradient(closest-side, rgba(250,250,250,0.5), rgba(250,250,250,0.2), transparent);
         
+    }
+
+    .namePart{
+        font-weight: 300;
     }
 
 
